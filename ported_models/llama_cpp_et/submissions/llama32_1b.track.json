@@ -2,6 +2,6 @@
   "schema_version": 1,
   "track": "llama_3_2_1b_fastest",
   "model": "llama32_1b",
-  "runtime_revision": "612f2cd60d83ee93fc6f586674c79f865dde5e6d",
-  "submission_id": "noor-malaika-packed-cont-20260726"
+  "runtime_revision": "5266afa466a35175d25e4f75eda24d35863db3d7",
+  "submission_id": "noor-malaika-packed-cont-lookup-decode-20260726"
 }
